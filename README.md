@@ -1,5 +1,5 @@
 Aurora Holiday Resort is a responsive website showcasing premium resorts across Switzerland, including photo galleries, locations, amenities, and a basic booking interface for potential guests.  
-The site is built with HTML and CSS and deployed via GitHub Pages to demonstrate front‑end development, layout, and content organization skills. [web:66][web:65]
+The site is built with HTML and CSS and deployed via GitHub Pages to demonstrate front‑end development, layout, and content organization skills.
 
 **Live site:** [https://ashubaj.github.io/AURORA/](https://ashubaj.github.io/AURORA/)
 
